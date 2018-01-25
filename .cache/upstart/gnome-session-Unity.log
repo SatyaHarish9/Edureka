@@ -1,0 +1,19 @@
+
+** (update-notifier:3713): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:3713): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+
+(gnome-terminal:5413): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
+WARN  2018-01-24 21:05:30 unity.iconloader IconLoader.cpp:755 Unable to load icon file:/// at size -1x22: Can't open directory
+ERROR 2018-01-24 21:19:29 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2018-01-24 21:19:29 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2018-01-24 21:19:29 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+ERROR 2018-01-24 21:29:43 unity <unknown>:0 atk_object_ref_state_set: assertion 'ATK_IS_OBJECT (accessible)' failed
+ERROR 2018-01-24 21:29:43 unity <unknown>:0 atk_state_set_contains_state: assertion 'ATK_IS_STATE_SET (set)' failed
+ERROR 2018-01-24 21:29:43 unityy <unknown>:0 g_object_unref: assertion 'G_IS_OBJECT (object)' failed
+
+** (update-notifier:3713): WARNING **: log file empty (logrotate?) /var/log/dpkg.log
+
+** (update-notifier:3713): WARNING **: log file empty (logrotate?) /var/log/apt/term.log
+
+(gnome-terminal:6816): GLib-GIO-CRITICAL **: g_settings_get: the format string may not contain '&' (key 'monospace-font-name' from schema 'org.gnome.desktop.interface'). This call will probably stop working with a future version of glib.
